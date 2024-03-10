@@ -43,23 +43,7 @@ class App {
         referrerPolicy: { policy: "same-origin" },
       })
     );
-    this.app.use(
-      cors({
-        origin(requestOrigin, callback) {
-          const whiteList = process.env.CORS_LIST ?? "";
-          if (whiteList.indexOf(requestOrigin as string) !== -1) {
-            callback(null, true);
-          } else {
-            callback(
-              new AppError({
-                message: `Not allowed by CORS for URL ${requestOrigin}`,
-                statusCode: 403,
-              })
-            );
-          }
-        },
-      })
-    );
+    this.app.use(cors());
     morgan.token("date", () =>
       format(new Date(), "yyyy-MM-dd'T'HH:mm:ss.SSSxxx")
     );
