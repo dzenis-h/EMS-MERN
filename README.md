@@ -1,5 +1,4 @@
 ##
-![GitHub repo size](https://img.shields.io/github/repo-size/[dzenis-h/EMS-MERN])
 ![GitHub contributors](https://img.shields.io/github/contributors/dzenis-h/EMS-MERN)
 ![GitHub stars](https://img.shields.io/github/stars/dzenis-h/EMS-MERN?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/dzenis-h/EMS-MERN?style=social)
