@@ -1,0 +1,24 @@
+.input-form-data {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 1.25;
+  color: #cdcdcd;
+  border: 1px solid #6c6c6c;
+}
+
+.input-form-data:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 8px rgba(0, 123, 255, 0.6);
+}
+
+#togglePasswordBtn {
+  position: absolute;
+  top: 50%;
+  right: 5px;
+  transform: translateY(-50%);
+  cursor: pointer;
+  background: none;
+  border: none;
+}
