@@ -14,7 +14,7 @@ export default function TermPage() {
         <div className="col-md-12">
           <h1 className="text-secondary">Terms and Conditions</h1>
           <b>Last updated: 10 March 2024</b>
-          <hr /
+          <hr />
 
           <p>
             Your access to and use of the Service is conditioned on your
