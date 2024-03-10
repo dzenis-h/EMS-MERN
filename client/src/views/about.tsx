@@ -55,7 +55,7 @@ export default function AboutPage() {
             <i style={{ color: "#00000", fontSize: "1.35rem" }}>
               This software uses <b>Google's OAuth</b> for authentication. To
               login, you have to use a Google account so they can provide you
-              with an API token (Google Spreadsheets API key to be precise).{" "}
+              with a token.{" "}
               <b>No data is being collected</b>
             </i>
           </p>
@@ -74,14 +74,14 @@ export default function AboutPage() {
           <p>
             If you have any further questions I'll be more than happy to answer
             them. In the meantime may I suggest visiting the GitHub repo and
-            analyze the code for yourself, download the instruction with further
+            analyze the code for yourself, and download the instructions with further
             explanations, or just watch the video to see what the app is all
             about.
           </p>
           <hr />
           <h3 className="text-secondary">More about the app itself:</h3>
           <h5>
-            Mars EMS is a full stack web app build using the MERN stack (amongst
+            Mars EMS is a full-stack web app built using the MERN stack (amongst
             other things){" "}
             <span role="img" aria-label="">
               📊 📉 📆
@@ -97,7 +97,7 @@ export default function AboutPage() {
                 This is an EMS software - [Employee management system] that can
                 help companies reduce their time spent on salaries, penalties,
                 bonuses and a lot of other things regarding the accounting
-                department, as well as many things regarding HR department
+                department, as well as many things regarding the HR department
                 [adding a new employee is only a few clicks away, and giving an
                 end date is only a click away]. It contains many other features,
                 like giving loans to employees, tracking their installments,
