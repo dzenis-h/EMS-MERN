@@ -13,20 +13,13 @@ export default function TermPage() {
       <div className="row">
         <div className="col-md-12">
           <h1 className="text-secondary">Terms and Conditions</h1>
-          <b>Last updated: November 21, 2019</b>
-          <hr />
-
-          <p>
-            Please read these Terms and Conditions ("Terms", "Terms and
-            Conditions") carefully before using the{" "}
-            <span className="text-info"> https://hr-ems.herokuapp.com</span>{" "}
-            website (the "Service") operated by Dzenis H. ("I" or "my").
-          </p>
+          <b>Last updated: 10 March 2024</b>
+          <hr /
 
           <p>
             Your access to and use of the Service is conditioned on your
             acceptance of and compliance with these Terms. These Terms apply to
-            all visitors, users and others who access or use the Service.
+            all visitors, users, and others who access or use the Service.
           </p>
 
           <p>
@@ -40,23 +33,23 @@ export default function TermPage() {
           <h3 className="text-secondary">Links To Other Web Sites</h3>
 
           <p>
-            The Service may contain links to third-party web sites or services
+            The Service may contain links to third-party websites or services
             that are not owned or controlled by this Service.
           </p>
 
           <p>
             The service has no control over, and assumes no responsibility for,
-            the content, privacy policies, or practices of any third party web
+            the content, privacy policies, or practices of any third-party web
             sites or services. You further acknowledge and agree that Mars-EMS
             shall not be responsible or liable, directly or indirectly, for any
             damage or loss caused or alleged to be caused by or in connection
-            with use of or reliance on any such content, goods or services
-            available on or through any such web sites or services.
+            with use of or reliance on any such content, goods, or services
+            available on or through any such websites or services.
           </p>
 
           <p>
             I strongly advise you to read the terms and conditions and privacy
-            policies of any third-party web sites or services that you visit.
+            policies of any third-party websites or services that you visit.
           </p>
 
           <br />
@@ -103,7 +96,7 @@ export default function TermPage() {
           <p>
             I reserve the right, at my sole discretion, to modify or replace
             these Terms at any time. If a revision is material I will try to
-            provide at least 30 days notice prior to any new terms taking
+            provide at least 30 days' notice prior to any new terms taking
             effect. What constitutes a material change will be determined at my
             sole discretion.
           </p>
@@ -135,12 +128,12 @@ export default function TermPage() {
               By visiting this page on my website:
               <span className="text-info">
                 <a
-                  href="https://dzenis-h.com/contact"
+                  href="https://dzenis.tech/contact"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   {" "}
-                  https://dzenis-h.com/contact
+                  https://dzenis.tech/contact
                 </a>
               </span>
             </li>
