@@ -1,8 +1,8 @@
 ##
-![GitHub repo size](https://img.shields.io/github/repo-size/dzenis-h/Mars-EMS)
-![GitHub contributors](https://img.shields.io/github/contributors/dzenis-h/Mars-EMS)
-![GitHub stars](https://img.shields.io/github/stars/dzenis-h/Mars-EMS?style=social)
-![GitHub forks](https://img.shields.io/github/forks/dzenis-h/Mars-EMS?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/[dzenis-h/EMS-MERN])
+![GitHub contributors](https://img.shields.io/github/contributors/dzenis-h/EMS-MERN)
+![GitHub stars](https://img.shields.io/github/stars/dzenis-h/EMS-MERN?style=social)
+![GitHub forks](https://img.shields.io/github/forks/dzenis-h/EMS-MERN?style=social)
 [![LinkedIn Follow](https://img.shields.io/badge/-Follow-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/dzenis-h/)](https://www.linkedin.com/in/dzenis-h/)
 [![GitHub Follow](https://img.shields.io/badge/-Follow-black?style=social&logo=github&link=https://github.com/dzenis-h)](https://github.com/dzenis-h)
 ##
