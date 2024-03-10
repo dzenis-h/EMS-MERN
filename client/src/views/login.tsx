@@ -37,7 +37,7 @@ export default function LoginPage() {
               <li>
                 <Link to="/terms">Terms And Conditions</Link>
               </li>
-              <li style={{ marginTop: ".6rem" }}>Made for test</li>
+              <li style={{ marginTop: ".6rem" }}>Made by Balkan Dreaams™️ test</li>
               <li>&copy; {new Date().getFullYear()}</li>
             </ul>
           </div>
