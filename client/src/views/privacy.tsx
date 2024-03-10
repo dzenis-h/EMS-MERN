@@ -13,14 +13,8 @@ export default function PrivacyPage() {
       <div className="row">
         <div className="col-md-12">
           <h1 className="text-secondary">Privacy Policy</h1>
-          <b>Effective date: September 20, 2019</b>
+          <b>Effective date: 10 March 2024</b>
           <hr />
-
-          <p>
-            Please read the Privacy Policies carefully before using the{" "}
-            <span className="text-info"> https://hr-ems.herokuapp.com</span>{" "}
-            website (the "Service") operated by Dzenis H. ("I" or "my").
-          </p>
 
           <p>
             This page informs you of the policies regarding the collection, use,
@@ -64,12 +58,12 @@ export default function PrivacyPage() {
           <h4 className="text-secondary">Usage Data</h4>
 
           <p>
-            The Service may also collect information how the Service is accessed
+            The Service may also collect information on how the Service is accessed
             and used ("Usage Data"). This Usage Data may include information
             such as your computer's Internet Protocol address (e.g. IP address),
             browser type, browser version, the pages of our Service that you
             visit, the time and date of your visit, the time spent on those
-            pages, unique device identifiers and other diagnostic data.
+            pages, unique device identifiers, and other diagnostic data.
           </p>
 
           <br />
@@ -80,7 +74,7 @@ export default function PrivacyPage() {
             information.
           </p>
           <p>
-            Cookies are files with small amount of data which may include an
+            Cookies are files with a small amount of data which may include an
             anonymous unique identifier. Cookies are sent to your browser from a
             website and stored on your device. Tracking technologies also used
             are beacons, tags, and scripts to collect and track information and
@@ -116,7 +110,7 @@ export default function PrivacyPage() {
             <li>To provide and maintain the Service</li>
             <li>To provide customer care and support</li>
             <li>To monitor the usage of the Service</li>
-            <li>To detect, prevent and address technical issues</li>
+            <li>To detect, prevent, and address technical issues</li>
           </ul>
 
           <br />
@@ -126,8 +120,8 @@ export default function PrivacyPage() {
           <p>
             Your information, including Personal Data, is NOT going to be
             transferred to — or maintained on — computers located outside of
-            your state, province, country or other governmental jurisdiction
-            where the data protection laws may differ than those from your
+            your state, province, country, or other governmental jurisdiction
+            where the data protection laws may differ from those from your
             jurisdiction.
           </p>
 
@@ -171,7 +165,7 @@ export default function PrivacyPage() {
           <h3 className="text-secondary">Service Providers</h3>
 
           <p>
-            This Service may employ third party companies and individuals to
+            This Service may employ third-party companies and individuals to
             facilitate our Service ("Service Providers"), to provide the Service
             on our behalf, to perform Service-related services or to assist us
             in analyzing how our Service is used.
@@ -190,14 +184,14 @@ export default function PrivacyPage() {
 
           <p>
             The Service may contain links to other sites that are not operated
-            by us. If you click on a third party link, you will be directed to
-            that third party's site. We strongly advise you to review the
+            by us. If you click on a third-party link, you will be directed to
+            that third-party's site. We strongly advise you to review the
             Privacy Policy of every site you visit.
           </p>
 
           <p>
             We have no control over and assume no responsibility for the
-            content, privacy policies or practices of any third party sites or
+            content, privacy policies, or practices of any third-party sites or
             services.
           </p>
 
@@ -238,7 +232,7 @@ export default function PrivacyPage() {
               By visiting this page on my website:
               <span className="text-info">
                 <a
-                  href="https://dzenis-h.com/contact"
+                  href="https://dzenis.tech/contact"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
